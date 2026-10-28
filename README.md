@@ -72,7 +72,11 @@ Model results will be added here once they exist.
 
 ## Team
 
-Add team member names here.
+1. Shreya Bhattacharjee (2306353)
+2. Anuja Chakraborty(2306375)
+3. Aryan Utsav(2306335)
+4. Aakrishya(2306247)
+5. Raghuvansh(2306391)
 
 ## Licence
 
